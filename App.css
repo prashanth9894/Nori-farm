@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+}
+input {
+  padding: 0.5rem;
+  width: 300px;
+  margin-right: 10px;
+}
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+.product {
+  margin-top: 20px;
+}
+.product img {
+  margin-top: 10px;
+}
